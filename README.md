@@ -1,9 +1,9 @@
 # plpWK8-Database-
 Submission of the week 8 assigment
 
-**VETINARY CLINIC DATABASE SYSTEM**
+**VETERINARY CLINIC DATABASE SYSTEM**
 
-This repo contains sql code for a database of a vertinary clinic. The database contains tables such as:
+This repo contains sql code for a database of a veterinary clinic. The database contains tables such as:
 i)pet table
 ii)owner table
 iii)staff table
