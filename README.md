@@ -22,5 +22,6 @@ The project is also very efficient and highly scalable due to the non comlexity 
 Below is an image of the ER Diagram for the database:
 <img width="604" alt="ER Diagram " src="https://github.com/user-attachments/assets/09d413e7-5913-409f-977e-7f5f185bbde1" />
 
+
 For detailed view. Visit https://dbdiagram.io/d/veterinary-clinic-ERD-682abed91227bdcb4ee5ccfb
 
